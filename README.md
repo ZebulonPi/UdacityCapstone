@@ -132,7 +132,7 @@ columns that won't be adding much value to our future analytics.
 ### Step 3: Define the Data Model
 
 #### 3.1 Conceptual Data Model
-insert pic here
+![Conceptual Data Model](images/CDM.drawio.png "Conceptual Data Model")
 For this model, I chose a star schema, with our I94 immigration data as our fact, and the other
 related data sets as our dimensions
 
